@@ -99,19 +99,9 @@ The following screenshots provide proof of work completed:
 ![Additional Proof 11](./assets/image23.png)
 ![Additional Proof 12](./assets/image24.png)
 ![Additional Proof 13](./assets/image25.png)
-
-## Scores
-
-| Tasks | Points |
-|------|--------|
-| 1-11 | 50 |
-| 12-16 | 10 |
-| 17-19 | 20 |
-| 20-21 | 20 |
 | **Total** | **100** |
 
 ## Author
 
-Student: Adeyemi Kolade
-Course: Docker (Advanced Group)
+smothkd54
 Date: April 2026
