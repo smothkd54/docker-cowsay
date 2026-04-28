@@ -99,7 +99,6 @@ The following screenshots provide proof of work completed:
 ![Additional Proof 11](./assets/image23.png)
 ![Additional Proof 12](./assets/image24.png)
 ![Additional Proof 13](./assets/image25.png)
-| **Total** | **100** |
 
 ## Author
 
